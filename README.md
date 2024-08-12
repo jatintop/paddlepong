@@ -1,4 +1,4 @@
-![Screenshot_2024-08-12-21-43-41-114_com example ponggame](https://github.com/user-attachments/assets/0afa7577-d566-4990-bd52-5314cf45f38e)# Pong Game
+# Pong Game
 
 A modern twist on the classic Pong game, developed using Kotlin for Android. This version includes multiple balls, ball speed increments, a scoring system, and a custom paddle, providing a challenging and engaging experience.
 
@@ -9,12 +9,6 @@ A modern twist on the classic Pong game, developed using Kotlin for Android. Thi
 - **Dynamic Difficulty:** Ball speed increases as you progress, adding to the challenge.
 - **Custom Paddle:** The paddle has a gradient color and rounded edges for a modern look.
 - **Game Over and Restart:** If any ball misses the paddle, the game ends and displays a "Game Over" screen with an option to restart.
-
-## Screenshots
-![Screenshot_2024-08-12-21-43-41-114_com example ponggame](https://github.com/user-attachments/assets/7085ba02-97c4-43f5-8ed4-555c1152d51c)
-
-![Game Screenshot 1](link_to_screenshot_1)
-![Game Screenshot 2](link_to_screenshot_2)
 
 ## How to Play
 
